@@ -70,8 +70,8 @@ Each category contains multiple food varieties with different prices.
 
 - Programming Language: C
 - Compiler: GCC
-- Platform: Linux / Windows
-- IDE/Editor: VS Code / Any C Compiler
+- Platform: Linux 
+- IDE/Editor: VS Code 
 
 ---
 
